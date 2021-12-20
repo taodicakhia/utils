@@ -180,6 +180,12 @@ https://vips-livecdn.fptplay.net/sdb/mtv_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="YouTV.vn" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="",YouTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
 https://vips-livecdn.fptplay.net/sdb/youtv_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ANTG.vn" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="",An Ninh Thế Giới
+https://m3u8-query.herokuapp.com/tv360/antg.m3u8
+#EXTINF:-1 tvg-id="HITV.vn" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="",HITV
+https://m3u8-query.herokuapp.com/tv360/hitv.m3u8
+#EXTINF:-1 tvg-id="MOV.vn" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="",MOV
+https://m3u8-query.herokuapp.com/tv360/mov.m3u8
 #EXTINF:-1 tvg-id="AnGiang.vn" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="",An Giang
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/ANGIANG-SD-ABR/HTV-ABR/ANGIANG-SD-720p/chunks.m3u8
 #EXTINF:-1 tvg-id="BaRiaVungTau.vn" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="",Bà Rịa Vũng Tàu
@@ -236,6 +242,9 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DONGNAI1-SD-ABR/playlist.m3u8
 #EXTINF:-1 tvg-id="DongNai2.vn" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="",Đồng Nai 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
 https://vips-livecdn.fptplay.net/sda/dongnai2_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="DongNai2.vn" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="",Đồng Nai 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+https://livecdn.fptplay.net/sda/skymart_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="DongThap1.vn" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="",Đồng Tháp 1
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DONGTHAP-SD-ABR/playlist.m3u8
 #EXTINF:-1 tvg-id="DongThap2.vn" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="",Đồng Tháp 2
