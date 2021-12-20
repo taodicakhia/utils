@@ -251,8 +251,7 @@ https://vips-livecdn.fptplay.net/sda/hagiang_hls.smil/playlist.m3u8
 https://vips-livecdn.fptplay.net/sda/hanam_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="HaNoi1.vn" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="",Hà Nội 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-#EXTVLCOPT:http-referer=https://hanoitv.vn/
-https://live.hanoitv.vn/hntvlive/tv1live.m3u8?vhost=__defaultVhost__
+https://vips-livecdn.fptplay.net/sdc/hanoitv1_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="HaNoi2.vn" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="",Hà Nội 2
 http://cdn.hntv.mediatech.vn/hntvlive/tv2live.m3u8
 #EXTINF:-1 tvg-id="HaTinh.vn" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="",Hà Tĩnh
