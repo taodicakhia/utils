@@ -177,7 +177,7 @@ http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
 http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 #EXTINF:-1 tvg-id="DakLak.vn" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="",Đắk Lắk
 https://vips-livecdn.fptplay.net/sdc/daklak_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="DakLak.vn" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="",Đắk Nông
+#EXTINF:-1 tvg-id="DakNong.vn" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="",Đắk Nông
 https://m3u8-query.herokuapp.com/tv360/daknong.m3u8
 #EXTINF:-1 tvg-id="DienBien.vn" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="",Điện Biên
 https://vips-livecdn.fptplay.net/sdc/dienbien_hls.smil/playlist.m3u8
@@ -185,6 +185,8 @@ https://vips-livecdn.fptplay.net/sdc/dienbien_hls.smil/playlist.m3u8
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DONGNAI1-SD-ABR/playlist.m3u8
 #EXTINF:-1 tvg-id="DongNai2.vn" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="",Đồng Nai 2
 https://vips-livecdn.fptplay.net/sda/dongnai2_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="DongNai3.vn" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="",Đồng Nai 3
+https://m3u8-query.herokuapp.com/dnrtv/dnrtv3.m3u8
 #EXTINF:-1 tvg-id="DongNai2.vn" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="",Đồng Nai 9
 https://livecdn.fptplay.net/sda/skymart_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="DongThap1.vn" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="",Đồng Tháp 1
