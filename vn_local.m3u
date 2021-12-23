@@ -177,6 +177,8 @@ http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
 http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 #EXTINF:-1 tvg-id="DakLak.vn" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="",Đắk Lắk
 https://vips-livecdn.fptplay.net/sdc/daklak_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="DakLak.vn" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="",Đắk Nông
+https://m3u8-query.herokuapp.com/tv360/daknong.m3u8
 #EXTINF:-1 tvg-id="DienBien.vn" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="",Điện Biên
 https://vips-livecdn.fptplay.net/sdc/dienbien_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="DongNai1.vn" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="",Đồng Nai 1
