@@ -47,8 +47,6 @@ https://vips-livecdn.fptplay.net/sdb/vtc11_hls.smil/playlist.m3u8
 https://vips-livecdn.fptplay.net/sdb/vtc12_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="VTC13.vn" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="",VTC13
 https://vips-livecdn.fptplay.net/hda1/vtc13_vhls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="VTC13.vn" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="",VTC13
-https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv241&q=auto&time=1&requestTime=1&pkg=pkg13
 #EXTINF:-1 tvg-id="VTC14.vn" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="",VTC14
 https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="VTC16.vn" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="",VTC16
